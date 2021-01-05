@@ -1,0 +1,21 @@
+
+MovieLens Project
+edX / HarvardX PH125.9x 'Data Science: Capstone'
+
+Contains three files
+1.) "Movielens_Project.R"
+2.) "Movielens_Project.Rmd"
+3.) "Movielens_Project.pdf"
+
+NOTE: Please run "Movielens_Project.R" first. It will save the datasets as .rds files. The .Rmd file will read the .rds file.
+
+File description:
+1.) The file "Movielens_Project.R" contains
+  a.) The R-code (provided with the problem tasks) to download and prepare the data set
+  b.) The R-code, which fits the model, makes predictions, and produces the final RMSE value
+2.) The file "Movielens_Project.Rmd" creates the report (here as pdf)
+3.) The file "Movielens_Project.pdf" contains the detailed project report
+
+Data description:
+Source: "http://files.grouplens.org/datasets/movielens/ml-10m.zip"
+This file contains about ten million movie ratings for various movies and users. Provider is the grouplens project. Please see also the Rmd file for more information.
