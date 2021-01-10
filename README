@@ -7,6 +7,8 @@ Contains three files
 2.) "Movielens_Project.Rmd"
 3.) "Movielens_Project.pdf"
 
+NOTE: This code requires R 4.0 or later to run properly. For R 3.6 and earlier, please change the sections marked in the code. (Sampling might result in different outcomes in some spots.)
+
 NOTE: Please run "Movielens_Project.R" first. It will save the datasets as .rds files. The .Rmd file will read the .rds file.
 
 File description:
